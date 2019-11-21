@@ -1,0 +1,18 @@
+{
+	"name":"liuguogen/php_valid",
+	"description":"php验证插件",
+	"keywords":["valid","php","validate","validation"],
+	"license":"MIT",
+	"authors":[
+		{
+			"name":"liuguogen",
+			"email":"liuguogen_vip@163.com"
+		}
+	],
+	"require":{
+		"php":">=5.6.0"
+	},
+	"require-dev":{
+		
+	}
+}
