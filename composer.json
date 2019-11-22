@@ -1,6 +1,6 @@
 {
 	"name":"liuguogen/php_valid",
-	"description":"php验证插件",
+	"description":"PHP数据验证插件",
 	"homepage": "https://github.com/liuguogen/php_valid.git",
 	"keywords":["valid","php","validate","validation"],
 	"license":"MIT",
